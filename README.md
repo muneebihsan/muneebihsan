@@ -1,13 +1,13 @@
-
-<h1 align="center">Hi there👋, I'm Muneeb Ihsan Janjua</h1>
+<h1 align="center">Hi 👋, I'm Muneeb Ihsan Janjua</h1>
 <h3 align="center">A passionate Native developer from Pakistan</h3>
-- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Flutter Development**
+- 🌱 I’m currently learning Flutter
 
-- 📫 How to reach me **Muneebihsanm82@gmail.com**
+- 💬 Ask me about Flutter Development
 
-- ⚡ Fun fact **I think I am funny**
+- 📫 How to reach me Muneebihsanm82@gmail.com
+
+- ⚡ Fun fact I think I am funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
