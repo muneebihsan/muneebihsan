@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muneeb Ihsan Janjua</h1>
-<h3 align="center">A passionate Native developer from Pakistan</h3>
+<h3 align="center">Aspiring Data Scientist from Pakistan, passionate about leveraging data for insights.</h3>
 
 - 🌱 I’m currently learning Data science
 
 - 💬 Ask me about Data Science
 
 - 📫 How to reach me Muneebihsanm82@gmail.com
-- 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/muneebihsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muneebihsan" height="30" width="40" /></a>
