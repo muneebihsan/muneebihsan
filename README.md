@@ -9,7 +9,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://(https://www.linkedin.com/in/muneeb-i-788b511a9/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40" /></a>
+ <a href="https://https://www.linkedin.com/in/muneeb-i-788b511a9/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40" /></a>
 <a href="https://twitter.com/muneebihsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muneebihsan" height="30" width="40" /></a>
 <a href="https://fb.com/muneeb.ihsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muneeb.ihsan" height="30" width="40" /></a>
 <a href="https://instagram.com/muneeb_ihsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muneeb_ihsan" height="30" width="40" /></a>
