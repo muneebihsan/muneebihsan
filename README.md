@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muneeb Ihsan Janjua</h1>
 <h3 align="center">A passionate Native developer from Pakistan</h3>
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Data science
 
-- 💬 Ask me about Flutter Development
+- 💬 Ask me about Data Science
 
 - 📫 How to reach me Muneebihsanm82@gmail.com
-
-- ⚡ Fun fact I think I am funny
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/muneebihsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muneebihsan" height="30" width="40" /></a>
